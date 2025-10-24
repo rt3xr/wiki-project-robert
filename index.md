@@ -7,3 +7,4 @@ Welkom in Night City, de stad vol neon, chaos en megabedrijven. Hier probeer ik 
 - [Personages](personages.md) 
 - [Verhaal](verhaal.md) 
 - [Locaties](locaties.md)
+- [About](about.md)
